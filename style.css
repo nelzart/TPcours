@@ -1,0 +1,61 @@
+body {
+    background-color: #132530;
+    color: white;
+}
+ 
+
+#logo img  {
+    min-width: 200px;
+    height: auto;
+    float: left; 
+    margin-top: 10px;
+}
+
+li a {
+    color: #ff8400;
+
+}
+
+li a:hover {
+        color: white;
+}
+
+section:nth-child(3){
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section:nth-child(4){
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+section:nth-child(4) img{
+    width: 150px;
+    height: auto;
+}
+
+section:nth-child(5){
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section#img-fluid{
+    width: 300px;
+    height: auto;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+#team img {
+    width: 150px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+section:nth-child(6){
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
